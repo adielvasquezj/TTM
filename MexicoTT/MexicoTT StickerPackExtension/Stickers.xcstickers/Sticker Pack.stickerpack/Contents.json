@@ -1,0 +1,80 @@
+{
+  "stickers" : [
+    {
+      "filename" : "IMG_1097.sticker"
+    },
+    {
+      "filename" : "IMG_1082.sticker"
+    },
+    {
+      "filename" : "IMG_1076.sticker"
+    },
+    {
+      "filename" : "IMG_1098.sticker"
+    },
+    {
+      "filename" : "IMG_1073.sticker"
+    },
+    {
+      "filename" : "IMG_1085.sticker"
+    },
+    {
+      "filename" : "IMG_1092.sticker"
+    },
+    {
+      "filename" : "IMG_1095.sticker"
+    },
+    {
+      "filename" : "IMG_1099.sticker"
+    },
+    {
+      "filename" : "IMG_1086.sticker"
+    },
+    {
+      "filename" : "IMG_1100.sticker"
+    },
+    {
+      "filename" : "IMG_1077.sticker"
+    },
+    {
+      "filename" : "IMG_1087.sticker"
+    },
+    {
+      "filename" : "IMG_1091.sticker"
+    },
+    {
+      "filename" : "IMG_1101.sticker"
+    },
+    {
+      "filename" : "IMG_1093.sticker"
+    },
+    {
+      "filename" : "IMG_1074.sticker"
+    },
+    {
+      "filename" : "IMG_1096.sticker"
+    },
+    {
+      "filename" : "IMG_1084.sticker"
+    },
+    {
+      "filename" : "IMG_1081.sticker"
+    },
+    {
+      "filename" : "IMG_1078.sticker"
+    },
+    {
+      "filename" : "IMG_1075.sticker"
+    },
+    {
+      "filename" : "IMG_1072.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
